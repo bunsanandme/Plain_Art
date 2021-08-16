@@ -10,7 +10,7 @@ This is my training project on the capabilities of PyQt5. In the program, you ca
 
 ### How can i get it?
 
-    In command line:
+In command line:
 
     pip install -r requirements.txt
 
