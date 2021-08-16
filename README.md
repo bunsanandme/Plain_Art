@@ -6,7 +6,7 @@ This is my training project on the capabilities of PyQt5. In the program, you ca
 
 ### Requirements:
 
-    - PyQt5
+- PyQt5
 
 ### How can i get it?
 
