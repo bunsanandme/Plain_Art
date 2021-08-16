@@ -1,17 +1,19 @@
-Программа - графический редактор "Plein Art"
+# PlainArt
 
-ОПИСАНИЕ ФУНКЦИОНАЛА:
+### Description
 
-Для создания окна используется класс Paint, в котором содержаться методы:
+This is my training project on the capabilities of PyQt5. In the program, you can change the color most flexibly and change the size of the brush.
 
-- __init__ - конструктор класса, наследования окна Tkinter и создание параметров
-- setUi - создание интерфейса (кнопки, ползунок размера кисти, окно рисования)
-- set_color - изменение цвета с помощью контекстного окна 
-- eraser - ластик, выставление белого цвета
-- draw - метод рисования в нескольких режимах
-- on_scale - метод для передачи аргументу размера кисти
-- change_oval/line/reversed_line - смена режима рисования
+### Requirements:
 
-Добавлен Меню бар с возможностью выхода
+    - PyQt5
 
-В архиве: main.py - код программы, main.exe - скомпилированное приложение
+### How can i get it?
+
+    In command line:
+
+    pip install -r requirements.txt
+
+### What's next?
+
+I think that on this project I want to learn QML and use it as a base.
